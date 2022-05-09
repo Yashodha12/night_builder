@@ -1,0 +1,6 @@
+owner: Yashodha12
+repo: Procyon_project
+provider: github
+updaterCacheDirName: procyon-agent-updater
+publisherName:
+  - Procyon.ai
