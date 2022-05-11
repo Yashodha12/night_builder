@@ -1,9 +1,0 @@
-version: 1.0.0
-files:
-  - url: Procyon.ai-Setup-1.0.0.exe
-    sha512: gfLiBr5DYDebZ2k04VmlQIqFLf5lXPI0VpLwpv5XW0Bp3StYjdCJp603vfjllGcsRUmlYrfyxY1P7OIImNK/wg==
-    size: 73697935
-    isAdminRightsRequired: true
-path: Procyon.ai-Setup-1.0.0.exe
-sha512: gfLiBr5DYDebZ2k04VmlQIqFLf5lXPI0VpLwpv5XW0Bp3StYjdCJp603vfjllGcsRUmlYrfyxY1P7OIImNK/wg==
-releaseDate: '2022-05-09T06:30:19.437Z'
